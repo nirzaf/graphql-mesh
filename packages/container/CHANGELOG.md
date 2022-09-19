@@ -1,5 +1,82 @@
 # @graphql-mesh/container
 
+## 0.1.171
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.21
+
+## 0.1.170
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.20
+  - @graphql-mesh/config@8.0.11
+  - @graphql-mesh/graphql@0.31.15
+  - @graphql-mesh/grpc@0.25.15
+  - @graphql-mesh/json-schema@0.35.15
+  - @graphql-mesh/odata@0.20.14
+  - @graphql-mesh/openapi@0.33.16
+  - @graphql-mesh/postgraphile@0.21.13
+  - @graphql-mesh/soap@0.14.13
+  - @graphql-mesh/plugin-mock@0.0.20
+  - @graphql-mesh/runtime@0.44.11
+  - @graphql-mesh/transform-cache@0.12.48
+  - @graphql-mesh/transform-encapsulate@0.3.95
+  - @graphql-mesh/transform-extend@0.10.58
+  - @graphql-mesh/transform-filter-schema@0.14.94
+  - @graphql-mesh/transform-prefix@0.11.83
+  - @graphql-mesh/transform-rename@0.12.84
+  - @graphql-mesh/transform-resolvers-composition@0.12.92
+
+## 0.1.169
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.19
+  - @graphql-mesh/config@8.0.10
+  - @graphql-mesh/graphql@0.31.14
+  - @graphql-mesh/grpc@0.25.14
+  - @graphql-mesh/json-schema@0.35.14
+  - @graphql-mesh/odata@0.20.13
+  - @graphql-mesh/openapi@0.33.15
+  - @graphql-mesh/postgraphile@0.21.12
+  - @graphql-mesh/soap@0.14.12
+  - @graphql-mesh/plugin-mock@0.0.19
+  - @graphql-mesh/runtime@0.44.10
+  - @graphql-mesh/transform-cache@0.12.47
+  - @graphql-mesh/transform-encapsulate@0.3.94
+  - @graphql-mesh/transform-extend@0.10.57
+  - @graphql-mesh/transform-filter-schema@0.14.93
+  - @graphql-mesh/transform-prefix@0.11.82
+  - @graphql-mesh/transform-rename@0.12.83
+  - @graphql-mesh/transform-resolvers-composition@0.12.91
+
+## 0.1.168
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.18
+
+## 0.1.167
+
+### Patch Changes
+
+- Updated dependencies [[`7254e96a5`](https://github.com/Urigo/graphql-mesh/commit/7254e96a51758353c450b0fbac2ebfd0455274be)]:
+  - @graphql-mesh/cli@0.78.17
+
+## 0.1.166
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/json-schema@0.35.13
+  - @graphql-mesh/openapi@0.33.14
+
 ## 0.1.165
 
 ### Patch Changes

@@ -1,5 +1,29 @@
 # @omnigraph/json-schema
 
+## 0.34.4
+
+### Patch Changes
+
+- Updated dependencies [[`ff251e4c7`](https://github.com/Urigo/graphql-mesh/commit/ff251e4c7654306d3030774447c991788768e148)]:
+  - @graphql-mesh/types@0.84.2
+  - json-machete@0.14.14
+  - @graphql-mesh/utils@0.41.13
+
+## 0.34.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/types@0.84.1
+  - json-machete@0.14.13
+  - @graphql-mesh/utils@0.41.12
+
+## 0.34.2
+
+### Patch Changes
+
+- [#4506](https://github.com/Urigo/graphql-mesh/pull/4506) [`3cdb71eb7`](https://github.com/Urigo/graphql-mesh/commit/3cdb71eb7e8d524497ba4cf5ce46753dc8b2d9fa) Thanks [@ardatan](https://github.com/ardatan)! - Process global operationHeaders and operation specific headers seperately one after another
+
 ## 0.34.1
 
 ### Patch Changes

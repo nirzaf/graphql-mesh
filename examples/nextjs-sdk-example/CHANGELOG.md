@@ -1,5 +1,53 @@
 # nextjs-sdk-example
 
+## 0.0.87
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.21
+
+## 0.0.86
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.20
+  - @graphql-mesh/config@8.0.11
+  - @graphql-mesh/openapi@0.33.16
+  - @graphql-mesh/runtime@0.44.11
+
+## 0.0.85
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.19
+  - @graphql-mesh/config@8.0.10
+  - @graphql-mesh/openapi@0.33.15
+  - @graphql-mesh/runtime@0.44.10
+
+## 0.0.84
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.78.18
+
+## 0.0.83
+
+### Patch Changes
+
+- Updated dependencies [[`7254e96a5`](https://github.com/Urigo/graphql-mesh/commit/7254e96a51758353c450b0fbac2ebfd0455274be)]:
+  - @graphql-mesh/cli@0.78.17
+
+## 0.0.82
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/openapi@0.33.14
+
 ## 0.0.81
 
 ### Patch Changes

@@ -1,5 +1,46 @@
 # @graphql-mesh/http
 
+## 0.1.18
+
+### Patch Changes
+
+- [#4527](https://github.com/Urigo/graphql-mesh/pull/4527) [`e038c27f2`](https://github.com/Urigo/graphql-mesh/commit/e038c27f28f7439e8f90edf7a53f6abc1ffc11e2) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency [`itty-router@2.6.3` ↗︎](https://www.npmjs.com/package/itty-router/v/2.6.3) (from `2.6.1`, in `dependencies`)
+
+## 0.1.17
+
+### Patch Changes
+
+- Updated dependencies [[`ff251e4c7`](https://github.com/Urigo/graphql-mesh/commit/ff251e4c7654306d3030774447c991788768e148)]:
+  - @graphql-mesh/types@0.84.2
+  - @graphql-mesh/runtime@0.44.11
+  - @graphql-mesh/utils@0.41.13
+
+## 0.1.16
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/types@0.84.1
+  - @graphql-mesh/runtime@0.44.10
+  - @graphql-mesh/utils@0.41.12
+
+## 0.1.15
+
+### Patch Changes
+
+- [`f72520b17`](https://github.com/Urigo/graphql-mesh/commit/f72520b175f7a52bff6db8b342f357df857dde09) Thanks [@ardatan](https://github.com/ardatan)! - Bump server adapter package to fix critical issues
+
+## 0.1.14
+
+### Patch Changes
+
+- [#4509](https://github.com/Urigo/graphql-mesh/pull/4509) [`7254e96a5`](https://github.com/Urigo/graphql-mesh/commit/7254e96a51758353c450b0fbac2ebfd0455274be) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency [`@whatwg-node/server@0.4.0` ↗︎](https://www.npmjs.com/package/@whatwg-node/server/v/0.4.0) (from `0.3.0`, in `dependencies`)
+  - Updated dependency [`graphql-yoga@3.0.0-alpha-20220917000718-4285245d` ↗︎](https://www.npmjs.com/package/graphql-yoga/v/3.0.0-alpha-20220917000718-4285245d) (from `3.0.0-alpha-20220905163021-e923bb34`, in `dependencies`)
+
 ## 0.1.13
 
 ### Patch Changes

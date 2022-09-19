@@ -1,5 +1,55 @@
 # @graphql-mesh/cli
 
+## 0.78.21
+
+### Patch Changes
+
+- Updated dependencies [[`e038c27f2`](https://github.com/Urigo/graphql-mesh/commit/e038c27f28f7439e8f90edf7a53f6abc1ffc11e2)]:
+  - @graphql-mesh/http@0.1.18
+
+## 0.78.20
+
+### Patch Changes
+
+- Updated dependencies [[`ff251e4c7`](https://github.com/Urigo/graphql-mesh/commit/ff251e4c7654306d3030774447c991788768e148)]:
+  - @graphql-mesh/types@0.84.2
+  - @graphql-mesh/config@8.0.11
+  - @graphql-mesh/http@0.1.17
+  - @graphql-mesh/runtime@0.44.11
+  - @graphql-mesh/store@0.8.46
+  - @graphql-mesh/utils@0.41.13
+
+## 0.78.19
+
+### Patch Changes
+
+- Updated dependencies [[`b444a9c1c`](https://github.com/Urigo/graphql-mesh/commit/b444a9c1c5a48962f76e111b9121124847ea9db6)]:
+  - @graphql-mesh/store@0.8.45
+  - @graphql-mesh/config@8.0.10
+  - @graphql-mesh/types@0.84.1
+  - @graphql-mesh/http@0.1.16
+  - @graphql-mesh/runtime@0.44.10
+  - @graphql-mesh/utils@0.41.12
+
+## 0.78.18
+
+### Patch Changes
+
+- Updated dependencies [[`f72520b17`](https://github.com/Urigo/graphql-mesh/commit/f72520b175f7a52bff6db8b342f357df857dde09)]:
+  - @graphql-mesh/http@0.1.15
+
+## 0.78.17
+
+### Patch Changes
+
+- [#4509](https://github.com/Urigo/graphql-mesh/pull/4509) [`7254e96a5`](https://github.com/Urigo/graphql-mesh/commit/7254e96a51758353c450b0fbac2ebfd0455274be) Thanks [@renovate](https://github.com/apps/renovate)! - dependencies updates:
+
+  - Updated dependency [`graphql-ws@5.11.1` ↗︎](https://www.npmjs.com/package/graphql-ws/v/5.11.1) (from `5.10.2`, in `dependencies`)
+  - Removed dependency [`graphql-yoga@3.0.0-alpha-20220905163021-e923bb34` ↗︎](https://www.npmjs.com/package/graphql-yoga/v/3.0.0-alpha-20220905163021-e923bb34) (from `dependencies`)
+
+- Updated dependencies [[`7254e96a5`](https://github.com/Urigo/graphql-mesh/commit/7254e96a51758353c450b0fbac2ebfd0455274be)]:
+  - @graphql-mesh/http@0.1.14
+
 ## 0.78.16
 
 ### Patch Changes
